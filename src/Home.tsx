@@ -6,7 +6,7 @@ const Home = () => {
             <NavBar />
             <div>
                 <h2>Dawid's shop</h2>
-                <h3>Search for everything you need in your waredrobe</h3>
+                <h3>Search for everything you need in your wardrobe</h3>
             </div>
         </>
     )

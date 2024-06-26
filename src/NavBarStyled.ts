@@ -4,8 +4,6 @@ import styled from "styled-components";
 export const NavWrapper = styled.nav`
     background-color: black;
     padding: 1rem;
-    width: 100%; 
-    box-sizing: border-box;
     display: flex;
     justify-content: center;
 `
